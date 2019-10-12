@@ -66,10 +66,22 @@ Active engagement in the tasks at hand is also required to pass.
 
 ### Previous knowledge / Preparation
 
-Coming soon.
+No previous knowledge is required. This workshop is designed to be a standalone workshop. The preparation material is described in the description of each session.
 
 ### Resources / Recommended Materials
 
-Coming soon.
+#### Repos
+
+* The repo of this course can be found at: [https://github.com/axambo/physical-computing-workshop-v2](https://github.com/axambo/physical-computing-workshop-v2)
+
+#### Books
+
+* Collins, Nicolas (2006): Handmade Electronic Music: The Art of Hardware Hacking. New York: Routledge. The previous manual to this book from the same author can be found here: [Hardware Hacking](https://www.nicolascollins.com/texts/originalhackingmanual.pdf), self-published (2004).
+* Filimowicz, Michael, ed. (2019) Foundations in Sound Design for Embedded Media: A Multidisciplinary Approach. Routledge.
+* Mims, Forrest M (1983) [Getting Started in Electronics](http://www.wbrc.in/ham/getting-started-in-electronics-forrest-m-mims-iii.pdf), Master Publishing, Incorporated.
+
+#### Videos
+
+* [Video tutorials](https://www.youtube.com/watch?v=4T7qkYY7LZM&list=PLyFW-rnLqSeGxwsL0FL160g8y6XmdHZcQ) included in Nicolas Collins (2006) Handmade Electronic Music: The Art of Hardware Hacking, New York: Routledge.
 
 
