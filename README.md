@@ -6,33 +6,29 @@ The code exercises and slides for the Physical Computing Workshop delivered at t
 
 ## Table of Contents
 
-* Introduction to the course
+* [Introduction to the course](slides/MCT4000-PCW-introduction)
 * [Syllabus](syllabus.md)
 
 ### Day 1: Intuitive Handmade Electronic Music
 
-* Slides
-* Code
-* Handout
+* [Slides](slides/MCT4000-PCW-day1)
+* [Code](code/day1)
 
 ### Day 2: Embedded Hacking
 
 * Slides
 * Code
-* Handout
 
 ### Day 3: Embedded Sensors and Actuators
 
 * Slides
 * Code
-* Handout
 
 ### Day 4: Mini-Hackathon and the Real World
 
 * Slides
 * Code
-* Handout
-* 
+ 
 ## License
 
 The [ISC License](http://opensource.org/licenses/ISC) Copyright (c) 2019 Anna Xambó
