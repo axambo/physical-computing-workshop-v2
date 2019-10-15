@@ -1,0 +1,18 @@
+#N canvas 365 189 618 339 12;
+#X obj 101 178 readsf~;
+#X obj 101 211 dac~;
+#X msg 101 146 open sounds/DropCoin.wav \, 1;
+#X text 44 22 Loop a soundfile;
+#X text 46 264 Source: https://www.youtube.com/watch?v=XKAk61zsyb8
+;
+#X obj 228 204 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X text 310 140 using the bang outlet of a the end of the sound file
+to trigger the sound again + adding a stop with message "0";
+#X msg 48 174 0;
+#X connect 0 0 1 0;
+#X connect 0 0 1 1;
+#X connect 0 1 5 0;
+#X connect 2 0 0 0;
+#X connect 5 0 2 0;
+#X connect 7 0 0 0;

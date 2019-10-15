@@ -18,7 +18,7 @@ The aim of this workshop is to explore intuitively physical computing and intera
 
 ## Workshop Design Criteria
 
-* Facilitate a hands-on workshop with affordable and DIY technologies (e.g. contact microphones, unmounted speakers, Bela, Pd)
+* Facilitate a hands-on workshop with affordable and DIY technologies (e.g. contact microphones, raw loudspeakers, Bela boards, Pd software).
 * Explore individually and in group the fundamental concepts behind physical computing (e.g. tinkering, programming, making).
 * Promote a sharing culture of code and discoveries (e.g. writing reflective blog posts, sharing code repositories).
 * Contextualize the workshop to the broader context of interactive systems for music performance at both theoretical and practical levels (e.g. readings, practices).
@@ -79,6 +79,10 @@ No previous knowledge is required. This workshop is designed to be a standalone 
 * Collins, Nicolas (2006): Handmade Electronic Music: The Art of Hardware Hacking. New York: Routledge. The previous manual to this book from the same author can be found here: [Hardware Hacking](https://www.nicolascollins.com/texts/originalhackingmanual.pdf), self-published (2004).
 * Filimowicz, Michael, ed. (2019) Foundations in Sound Design for Embedded Media: A Multidisciplinary Approach. Routledge.
 * Mims, Forrest M (1983) [Getting Started in Electronics](http://www.wbrc.in/ham/getting-started-in-electronics-forrest-m-mims-iii.pdf), Master Publishing, Incorporated.
+
+#### Articles
+
+* Xambó, A., Saue, S., Jensenius, A.R., Støckert, R. and Brandtsegg, Ø. (2019) [“NIME Prototyping in Teams: A Participatory Approach to Teaching Physical Computing”](http://annaxambo.me/pub/Xambo_et_al_2019_NIME_prototyping_in_teams.pdf). In Proceedings of the New Interfaces for Musical Expression (NIME ’19). Porto Alegre, Brazil. pp. 216–221.
 
 #### Videos
 
