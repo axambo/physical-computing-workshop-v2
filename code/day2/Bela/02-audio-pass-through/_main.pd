@@ -1,0 +1,17 @@
+#N canvas 221 234 450 300 12;
+#X text 215 22 ............................;
+#X text 215 32 . ____ ._____ _ .......___ .;
+#X text 215 42 .| __ )| ____| |....../ _ |.;
+#X text 215 62 .| |_) | |___| |___ / ___ |.;
+#X text 215 72 .|____/|_____|_____/_/..._|.io;
+#X text 215 82 ............................;
+#X text 215 52 .| __ || __|.| |...../ _| |.;
+#X obj 51 188 adc~;
+#X obj 51 210 dac~;
+#X text 128 199 Audio pass-through;
+#X text 36 125 Connect a mic to the stereo input Connect a speaker/headphones
+to the stereo output Run the patch;
+#X text 35 32 Audio pass-through;
+#X text 35 42 ==================;
+#X connect 7 0 8 0;
+#X connect 7 1 8 1;
