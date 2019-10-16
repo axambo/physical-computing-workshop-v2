@@ -16,8 +16,8 @@ The code exercises and slides for the Physical Computing Workshop delivered at t
 
 ### Day 2: Embedded Hacking
 
-* Slides
-* Code
+* [Slides](slides/MCT4000-PCW-day2)
+* [Code](code/day2)
 
 ### Day 3: Embedded Sensors and Actuators
 
