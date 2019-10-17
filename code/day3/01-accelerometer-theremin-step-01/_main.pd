@@ -1,0 +1,37 @@
+#N canvas 0 23 646 444 12;
+#X text 36 419 ADC 3: Analog In 0;
+#X text 35 353 ADC routing:;
+#X text 35 361 ------------;
+#X text 36 429 ADC 4: Analog In 1;
+#X text 36 439 ADC 5: Analog In 2;
+#X text 36 449 ADC 6: Analog In 3;
+#X text 36 459 ADC 7: Analog In 4;
+#X text 36 469 ADC 8: Analog In 5;
+#X text 36 479 ADC 9: Analog In 6;
+#X text 36 489 ADC 10: Analog In 7;
+#X text 36 399 ADC 1: Audio In L;
+#X text 36 409 ADC 2: Audio In R;
+#X text 36 373 ADC channels 3-10 are used to address the analog inputs:
+;
+#X obj 406 165 snapshot~;
+#X obj 406 117 loadbang;
+#X obj 406 138 metro 200;
+#X obj 406 189 change;
+#X text 110 158 Analog Inputs 0 \, 1 \, 2 \, 3 \, 4 \, 5 \, 6 \, 7
+;
+#X obj 38 265 dac~ 1 2;
+#X obj 38 224 *~ 0.1;
+#X obj 38 203 osc~ 660;
+#X obj 40 168 *~ 1000;
+#X obj 39 118 adc~ 3;
+#X obj 406 211 print digitalAnalogIn0;
+#X connect 13 0 16 0;
+#X connect 14 0 15 0;
+#X connect 15 0 13 0;
+#X connect 16 0 23 0;
+#X connect 19 0 18 1;
+#X connect 19 0 18 0;
+#X connect 20 0 19 0;
+#X connect 21 0 20 0;
+#X connect 22 0 21 0;
+#X connect 22 0 13 0;
