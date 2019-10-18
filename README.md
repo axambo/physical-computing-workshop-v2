@@ -21,13 +21,12 @@ The code exercises and slides for the Physical Computing Workshop delivered at t
 
 ### Day 3: Embedded Sensors and Actuators
 
-* Slides
-* Code
+* [Slides](slides/MCT4000-PCW-day3)
+* [Code](code/day3)
 
 ### Day 4: Mini-Hackathon and the Real World
 
-* Slides
-* Code
+* [Slides](slides/MCT4000-PCW-day4)
  
 ## License
 
