@@ -1,0 +1,74 @@
+\documentclass[screen, aspectratio=169]{beamer}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+% Use the NTNU-temaet for beamer 
+% \usetheme[style=ntnu|simple|vertical|horizontal, 
+%     language=bm|nn|en, 
+%     smalltitle, 
+%     city=all|trondheim|alesund|gjovik]{ntnu2017}
+\usetheme[style=ntnu, language=en, smalltitle]{ntnu2017}
+
+\usepackage[english]{babel}
+\usepackage[style=numeric,backend=biber,natbib=false,sorting=none]{biblatex}
+
+\title[mini-hackathon]{Mini-Hackathon 2019}
+\subtitle{MCT4000 Physical Computing Workshop}
+%\author[A. Xamb{\'o}]{Anna Xamb{\'o}}
+\institute[NTNU]{Department of Music, NTNU}
+\date{18 October 2019}
+%\date{} % To have an empty date
+
+\addbibresource{../pcw.bib} % Add bibliography database
+
+% Set the reference style to numeric.
+% See here: http://tex.stackexchange.com/questions/68080/beamer-bibliography-icon
+\setbeamertemplate{bibliography item}[text] 
+
+% Set bibliography fonts to a small size.
+\renewcommand*{\bibfont}{\footnotesize}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+%
+\begin{frame}
+\frametitle{}
+{\Huge Mini-Hackathon 2019}\\
+\vspace{1cm}
+{\huge MCT4000 Physical Computing Workshop}
+\end{frame}
+%
+\begin{frame}
+\frametitle{Theme}
+{\Huge Recycle}
+\end{frame}
+%
+\usebackgroundtemplate{}
+\begin{frame}
+\frametitle{}
+{\Huge Team A: Recycling Orchestra}\\
+\vspace{1cm}
+{\huge Gaute, Rayam, Thibault and Ulrik}
+\end{frame}
+%
+\usebackgroundtemplate{}
+\begin{frame}
+\frametitle{}
+{\Huge Team B: Sound at the Speed of Light}\\
+\vspace{1cm}
+{\huge Jackson, Magda, Simon and Jarle}
+\end{frame}
+%
+\usebackgroundtemplate{}
+\begin{frame}
+\frametitle{}
+{\Huge Team C: The Three Rs! The Paris Agreement}\\
+\vspace{1cm}
+{\huge Aleksander, Paul, Tom Ignatius and Thomas}
+\end{frame}
+%
+
+\end{document}
